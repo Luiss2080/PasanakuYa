@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "PasanakuYa",
+    "slug": "pasanakuya",
+    "scheme": "pasanakuya",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.pasanakuya"
+    },
+    "android": {
+      "package": "com.luiss2080.pasanakuya"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+web-build/
+android/
+ios/
+*.apk
+*.aab
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+expo-env.d.ts
